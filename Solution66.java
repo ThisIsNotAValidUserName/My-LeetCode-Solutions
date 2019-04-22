@@ -1,7 +1,7 @@
 public class Solution66 {
 
     /**
-     * Solution to LeetCode 66, 49.61%
+     * Solution237 to LeetCode 66, 49.61%
      * @param digits
      * @return
      */

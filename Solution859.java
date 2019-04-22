@@ -4,7 +4,7 @@ import java.util.List;
 public class Solution859 {
 
     /*
-     Solution for LeetCode 859
+     Solution237 for LeetCode 859
      */
 
     public boolean buddyStrings(String A, String B) {

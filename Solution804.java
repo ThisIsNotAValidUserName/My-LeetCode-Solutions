@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /*
- Solution for LeetCode 804
+ Solution237 for LeetCode 804
  */
 public class Solution804 {
 

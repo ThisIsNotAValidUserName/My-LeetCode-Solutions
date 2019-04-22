@@ -1,7 +1,7 @@
 public class Solution53 {
 
     /**
-     * Solution to LeetCode 53, complexity O(n)
+     * Solution237 to LeetCode 53, complexity O(n)
      * Divide and Conquer?
      * @param nums
      * @return

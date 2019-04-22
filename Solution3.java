@@ -5,7 +5,7 @@ import java.util.Set;
 public class Solution3 {
 
     /*
-     Solution for LeetCode 3
+     Solution237 for LeetCode 3
      */
 
     public int lengthOfLongestSubstring(String s) {
